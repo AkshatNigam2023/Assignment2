@@ -1,0 +1,31 @@
+All classes: 
+models.Hyundai
+models.Kia
+models.Mercedes
+models.Tata
+models.Yamaha
+
+Classes annotated with '@ClassDocumentation': 
+models.Hyundai
+models.Mercedes
+models.Tata
+
+Methods annotated with '@MethodDocumentation': 
+public int models.Mercedes.getBookings()
+public int models.Hyundai.getBookings()
+public int models.Tata.setBookings(java.lang.String)
+public int models.Mercedes.setbookings(java.lang.String)
+public int models.Hyundai.setBookings(java.lang.String)
+public int models.Tata.getBookings()
+public int models.Kia.setBookings(java.lang.String)
+public void models.Mercedes.valueMember(int)
+public int models.Kia.getBookings()
+
+Classes annotated with '@ClassDocumentation' but have no javadoc: 
+models.Hyundai
+models.Mercedes
+models.Tata
+
+Methods annotated with '@MethodDocumentation' but have no javadoc: 
+[models.Hyundai.setBookings, models.Tata.setBookings, models.Kia.setBookings, models.Mercedes.getBookings, models.Hyundai.getBookings, models.Mercedes.setbookings, models.Tata.getBookings, models.Kia.getBookings, models.Mercedes.valueMember]
+
